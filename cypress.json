@@ -1,6 +1,5 @@
 {
 	"baseUrl": "http://localhost:8000/",
 	"screenshotOnRunFailure": false,
-	"videoUploadOnPasses": false,
-	"projectId": "4oqbay"
+	"videoUploadOnPasses": false
 }
