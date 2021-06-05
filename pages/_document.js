@@ -40,7 +40,7 @@ export default class extends Document {
             src={`https://maps.googleapis.com/maps/api/js?key=${APIKEY}&libraries=places&v=weekly`}
             defer
           />
-          <script src="/node_modules/quill-video-resize-module/video-resize.min.js" />
+          <script href="/node_modules/quill-video-resize-module/video-resize.min.js" />
         </Head>
         <body>
           <InitializeColorMode />
